@@ -21,7 +21,6 @@ OD= 0.0825; %m
 
 % Bolt variables (user-changeable)
 n_list = [8 10 12];  % bolts per end (vector to search)
-dis = 0.01;  % m -- distance (from bolt row to tank top). set as desired.
 
 % Bolt diameters to search (inches -> meters)
 bolt_diam_in = [1/8, 3/16, 5/16];    % common small bolt sizes
